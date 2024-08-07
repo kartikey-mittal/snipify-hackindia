@@ -5,7 +5,7 @@
 Snipify is a dynamic web platform designed to cater to the needs of school and college students seeking real-time assistance in coding and development. Our user-friendly interface bridges the gap between learners and experienced tutors, providing a 24X7 support system
 ![Logo](https://raw.githubusercontent.com/kartikey-mittal/snipify/main/snipify-1.png?token=GHSAT0AAAAAACKX3PHWVES3IDOLE2VE5RXIZQFPCUA)
 
-## [Deploy Link🚀](https://snipify-project.pages.dev/)
+## [Deploy Link🚀](https://snipify-hackindia.vercel.app/)
 
 
     
@@ -15,9 +15,9 @@ Snipify is a dynamic web platform designed to cater to the needs of school and c
 
 Instantly connect with knowledgeable tutors specialized in various fields for live assistance.
 
-### -  Sleek WebApp:
+### - Decentralized token system:
 
-Enjoy a seamless experience with a user friendly graphical interface , enhancing the learning process 
+Web3-powered app rewards tutors with decentralized tokens for engagement.
 
 ### - Online In-App-Meetings :
 
@@ -47,7 +47,7 @@ Receive comprehensive notes from tutors, providing valuable insights and referen
 
 ## 🔗 Stacks
 
-[![Firebase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=orange)](https://twitter.com/) [![WebRTC](https://img.shields.io/badge/webrtc-000?style=for-the-badge&logo=webrtc&logoColor=blue)](https://twitter.com/) [![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=green)](https://twitter.com/) [![Node.js](https://img.shields.io/badge/nodejs-000?style=for-the-badge&logo=node.js&logoColor=339933)](https://twitter.com/) [![Axios](https://img.shields.io/badge/axios-black?style=for-the-badge&logo=axios&logoColor=white)](https://github.com/axios/axios)
+![web3](https://img.shields.io/badge/web3-000?style=for-the-badge&logo=web3&logoColor=orange)[![Firebase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=orange)](https://twitter.com/) [![WebRTC](https://img.shields.io/badge/webrtc-000?style=for-the-badge&logo=webrtc&logoColor=blue)](https://twitter.com/) [![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=green)](https://twitter.com/) [![Node.js](https://img.shields.io/badge/nodejs-000?style=for-the-badge&logo=node.js&logoColor=339933)](https://twitter.com/) [![Axios](https://img.shields.io/badge/axios-black?style=for-the-badge&logo=axios&logoColor=white)](https://github.com/axios/axios)
 
 
 
@@ -76,7 +76,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ##  Feedback
 
-Share your feedback to help us continuously improve and enhance the Snipify experience .Gmail us @snipify.gfg@gmail.com 
+Share your feedback to help us continuously improve and enhance the Snipify experience 
 
 
 
